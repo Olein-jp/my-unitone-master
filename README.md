@@ -1,1 +1,2 @@
-# my-unitone-master
+# my unitone master
+unitone をカスタマイズするためのプラグインです。
